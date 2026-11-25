@@ -1,5 +1,5 @@
 p {
-    font-size:20px;
+    font-size:23px;
     color:aquamarine;
 }
 p:hover {
@@ -10,6 +10,6 @@ body {
     background-color: black;
 }
 li {
-    color: white;
-    font-size: 30px;
+    color: orange;
+    font-size: 35px;
 }
