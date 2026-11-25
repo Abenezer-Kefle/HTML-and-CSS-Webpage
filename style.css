@@ -1,0 +1,15 @@
+p {
+    font-size:20px;
+    color:aquamarine;
+}
+p:hover {
+    color:blue;
+    font-size:28px;
+}
+body {
+    background-color: black;
+}
+li {
+    color: white;
+    font-size: 30px;
+}
