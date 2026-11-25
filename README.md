@@ -1,7 +1,8 @@
 # HTML and CSS Webpage
 
 ## Finished Product:
-https://github.com/user-attachments/assets/2baa62af-fdc2-48c1-bf34-57fff03a2ac5
+
+https://github.com/user-attachments/assets/cf58a451-0952-40a0-8928-b17c7700d12e
 
 ## Overview
 This project is a basic webpage developed to practice HTML structure and CSS styling. It demonstrates the use of common HTML elements and external stylesheets to control the appearance of a webpage.
